@@ -40,5 +40,8 @@
  </table>
  
  ## Live Demo
+ 
  <a href="https://shlokgaikwad.github.io/magic-notes-project/">Site Preview</a>
+ 
+ NETLIFY: <a href="https://fascinating-piroshki-238e00.netlify.app/">Site Preview</a>
 
